@@ -1,0 +1,21 @@
+Citi Bike Analysis
+
+The first page of the story captures 2019 trip activity.  
+After reviewing the Jan through Dec 2019 trip data files, it was found that more men utilizes the Citi Bike program.  
+Also, the most popular station based on the start and end ids was the Grove St Path station.  
+This station is location on Christopher Columbus Dr and Grove Street, which is surrounded by restaurants, banking, bars and stores for shopping.
+Based on the start station ids, 46,662 trips were on average 462 seconds in duration.
+Based on the end station ids, 58,697 trips ended in this location and were on average 466 seconds in duration.
+
+The second page of the story compares Jan -May 2019 to Jan - May 2020 activity.
+This dashboard was created to show if and how trip activity was impacted by Covid-19.
+The bar chart shows that there was a decline in trip activity starting in March 2020.  
+April 2020 had the worst decline, which was down by 22k compared to April 2019.
+The Map included on this dashboard allows the business to see the decline in the average trip duration by month, which was significant.
+
+
+Tableau workbook:
+https://public.tableau.com/shared/7RCWXG8JX?:display_count=y&:origin=viz_share_link
+
+
+Resources provided by https://www.citibikenyc.com/system-data
